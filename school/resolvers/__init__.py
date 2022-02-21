@@ -1,0 +1,1 @@
+from .school import school_query, school_mutation

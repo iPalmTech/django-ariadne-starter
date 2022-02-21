@@ -1,0 +1,1 @@
+from .school import type_defs
